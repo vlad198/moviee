@@ -1,0 +1,22 @@
+.header__component {
+  height: 70px;
+  background-color: #232323;
+  color: rgba(255, 255, 255, 0.65);
+  padding: 0 25px;
+  word-spacing: 2px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.header__component-logo {
+  font-size: 1.7rem;
+  font-weight: 300;
+}
+.header__component-icon {
+  margin-left: 10px;
+  font-size: 1.4rem;
+  color: #ffffff;
+}
+.header__component-credit {
+  margin: 0 0 0 5px;
+}
